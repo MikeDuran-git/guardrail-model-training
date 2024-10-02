@@ -26,7 +26,7 @@ This project demonstrates the creation of a machine learning model for predictin
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/yourusername/ai-guardrails-project.git](https://github.com/MikeDuran-git/guardrail-model-training
+   git clone https://github.com/MikeDuran-git/guardrail-model-training
    cd guardrail-model-training
    ```
 
